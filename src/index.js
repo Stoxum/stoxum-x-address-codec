@@ -4,6 +4,7 @@ const codecFactory = require('./address-codec');
 
 const ALPHABETS = {
   bitcoin: '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz',
+  stoxum: 'xFtyEXqQ2YpfNC9zmjoaJAG5n4MSigZsKvB1UP37kwbucVrTHhD8dRLeW6',
   ripple: 'rpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2bcdeCg65jkm8oFqi1tuvAxyz',
   tipple: 'RPShNAF39wBUDnEGHJKLM4pQrsT7VWXYZ2bcdeCg65jkm8ofqi1tuvaxyz',
   stellar: 'gsphnaf39wBUDNEGHJKLM4PQRST7VWXYZ2bcdeCr65jkm8oFqi1tuvAxyz'
