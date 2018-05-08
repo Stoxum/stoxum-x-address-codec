@@ -1,5 +1,5 @@
 {
-  "name": "x-address-codec",
+  "name": "stoxum-x-address-codec",
   "version": "0.7.2",
   "license": "ISC",
   "description": "crypto currency address codec",
